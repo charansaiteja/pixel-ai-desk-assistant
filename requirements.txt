@@ -1,0 +1,3 @@
+ollama
+pyserial
+pydantic>=2
